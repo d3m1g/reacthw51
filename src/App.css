@@ -1,0 +1,9 @@
+.card {
+  width: 18rem;
+  margin: 10px;
+}
+
+.card-list {
+  display: flex;
+  flex-direction: column;
+}
